@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/basic-study/static/js/main.a5c3960e.js",
-    "index.html": "/basic-study/index.html",
-    "main.a5c3960e.js.map": "/basic-study/static/js/main.a5c3960e.js.map"
+    "main.js": "/movie/static/js/main.a5c3960e.js",
+    "index.html": "/movie/index.html",
+    "main.a5c3960e.js.map": "/movie/static/js/main.a5c3960e.js.map"
   },
   "entrypoints": [
     "static/js/main.a5c3960e.js"
